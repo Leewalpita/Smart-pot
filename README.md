@@ -7,7 +7,7 @@ This repository contains a machine learning project that uses a Convolutional Ne
 The goal of this project is to classify tomato plant diseases using a dataset of images, training a CNN to recognize different disease classes. The model takes as input images of tomato plant leaves and outputs predictions for 10 different disease classes. The project has been enhanced with real-time image capture from an IP webcam, which can automatically predict the disease class for live-captured images.
 
 # Dataset
-Dataset Path: The dataset used is located in C:/Users/User/Documents/Jason/ML project/data set 2/tomato/.
+Dataset Path: The dataset used is located in Kaggle Tomato leaf disease detection
 The dataset is split into train and val directories containing the training and validation images, respectively.
 # Classes
 The dataset contains images for the following tomato plant diseases:
