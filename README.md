@@ -59,7 +59,7 @@ Enhance the IP webcam feature with real-time video streaming and continuous pred
 Explore transfer learning with pre-trained models such as VGG16 or ResNet for improved accuracy.
 Add data augmentation to improve model generalizatio
 
-#graphs 
+# graphs 
 ![Figure_2](https://github.com/user-attachments/assets/5874d351-3302-4b3e-95e8-3b07fe24ff90)
 ![Figure_1](https://github.com/user-attachments/assets/7587f2be-6513-49c9-8201-3a49a4df0e1d)
 
